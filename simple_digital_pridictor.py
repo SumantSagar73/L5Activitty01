@@ -35,4 +35,3 @@ plt.imshow(x_test[0], cmap=plt.cm.binary)
 plt.title(f"Predicted: {predictions[0].argmax()}")
 plt.show()
 
-print("Sumant")
